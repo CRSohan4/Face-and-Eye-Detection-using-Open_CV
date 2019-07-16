@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=KpAJJS3xA-o
 
 <h1>face_detection_and_eye_detection.py</h1>
  After the setup run the main face and eye detection file<br>
- Run the below command<br>
+ Run the below command in command prompt(windows) or terminal(linux or mac) <br>
 <b>python face_detection_and_eye_detection.py</b>
 <br><br><br>
 
