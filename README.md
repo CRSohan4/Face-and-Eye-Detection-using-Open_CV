@@ -21,3 +21,11 @@ https://www.youtube.com/watch?v=KpAJJS3xA-o
  After the setup run the main face and eye detection file
  Run the below command
 <b>python face_detection_and_eye_detection.py</b>
+<br><br><br>
+
+<h3><big>~ CR Sohan</big></h3><br>
+YouTube : https://www.youtube.com/channel/UCL4QknyjDypyIVu_Gz-V5PA<br>
+Instagram : https://www.instagram.com/sohan_kulkarni<br>
+Facebook : https://www.facebook.com/sohan.kulkarni.75<br>
+LinkedIn : https://www.linkedin.com/in/sohan-kulkarni-5324a1167<br>
+Gmail : sohan.m.kulkarni@gmail.com
