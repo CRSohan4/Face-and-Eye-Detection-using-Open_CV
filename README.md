@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=KpAJJS3xA-o
 <b>python setup.py</b>
 
 <h1>face_detection_and_eye_detection.py</h1>
- After the setup run the main face and eye detection file
- Run the below command
+ After the setup run the main face and eye detection file<br>
+ Run the below command<br>
 <b>python face_detection_and_eye_detection.py</b>
 <br><br><br>
 
