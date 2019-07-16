@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=KpAJJS3xA-o
 <b>python face_detection_and_eye_detection.py</b>
 <br><br><br>
 
-<h3><big>~ CR Sohan</big></h3><br>
+<h2><big>~ CR Sohan</big></h2>
 YouTube : https://www.youtube.com/channel/UCL4QknyjDypyIVu_Gz-V5PA<br>
 Instagram : https://www.instagram.com/sohan_kulkarni<br>
 Facebook : https://www.facebook.com/sohan.kulkarni.75<br>
